@@ -43,4 +43,4 @@
 
 @ZimoLoveShuang/auto-submit 提供签到代码
 
-@qdddz/HFUT_AutoSubmit 提供Action思
+@qdddz/HFUT_AutoSubmit 提供Action思路。
